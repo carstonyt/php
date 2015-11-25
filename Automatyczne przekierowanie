@@ -1,0 +1,4 @@
+<?php
+   header('Location: http://strona.com/x2');
+?>
+#Prawa Autorskie Carston 2015
